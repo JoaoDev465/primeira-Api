@@ -1,0 +1,3 @@
+using MyPosts;
+
+namespace Mytags;
